@@ -1,0 +1,34 @@
+    [07-11-2024 05:41 PM] Chinmai NCE: $ mkdir git-stoph 11 Create directory.
+
+$ cd git-stosh Il change to that direc
+
+$ git init // initializes gis repository in
+
+-a
+
+Il to see the hidden ones
+
+$ touch 1. txt
+
+$ Il to create a file
+
+$ git add 1.txt 11 adding files to th
+
+$ git Status // used to check the s
+
+$ Vim 1.tst Jedi 1. tat 11 to G
+
+$ git add 1. tat Il adding files to
+
+$ git commit (1 13 Few Chonger are // to update the
+[07-11-2024 05:42 PM] Chinmai NCE: $ git config --global user. Crait " // to give email id four en
+
+our
+
+$ git config --global user.name // to give our name.
+
+$ touch 2. txt $vir 2.tet // forcat
+
+re
+
+4
