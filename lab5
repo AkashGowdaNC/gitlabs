@@ -1,0 +1,120 @@
+[07-11-2024 05:45 PM] Chinmai NCE: Gis reboting noting bit teking one branch an is to the tip of the main bronches [ adding Commit It is wed to Integrate change from one bron
+
+Procedure
+
+Git Hub-
+
+Step 1:- Create a new repository or your gis hub Step &:- Copy the link of the newly Created re
+
+A switch over to ferrinol
+
+8
+
+-
+
+Terminal:-
+
+Step 1- Create a new directory Mkdir name of the directory Mkdir lab 5
+
+Step 2: rotke the new Created directory Ilcd/nome of the directory as worki
+
+Cd lob 5
+
+Step 3: clone the nenote repository to the local ma git clone "Copy the lins & patte".
+
+Teacher's
+[07-11-2024 05:46 PM] Chinmai NCE: Steps: you should change the wasting directory again kehich is nothing but the repository. created on the gis
+
+Cd remote repository
+
+ex: ca okoth.
+
+Steps: check the gis bronch gis broach
+
+Step 6: Create a new bronch with the nome git branch feature "feature
+
+Step 7: Checkout from the main branch to feature git checkout feature
+
+Step 8: Create a 3 files with a name
+
+Vimletat
+
+Vim 2.txt
+
+Vim 3, tot
+
+Create five by // gedit followed by lotow vin @touch litat Cusing this Corvus we can crede only but we can not edit).
+
+Step 9:- Add all the newly created files to the git report
+
+cking fi's add tracking Steplo:- lait each and every files and save it add files agan to the repository
+
+Stepll: Comin't the changes mode to all the files with appropr git commit -m"changes are dore"
+
+3 Comni-1.tat
+
+2.txt
+
+Teacher's
+[07-11-2024 05:46 PM] Chinmai NCE: Stepis: check the git log git log
+
+Step 13: Chonges the feature branch to main bronch git checkout Mair
+
+Steply: On the main brench Create a file add to the rep
+
+edit the file again to the repository also coront with of Message. Vir ty-tat
+
+qu add
+
+qit Commit -m" chonges are dome
+
+Step 15: on the rein bronch check the git log git log
+
+Rebase:-
+
+git rebase feature main
+
+Check git log
+
+Main only :
+
+16: peter the details of the remote repository (is Step 16: git fetch
+
+Step 17: To Check the Repository details (to to check how on the nerote) git remote - V
+
+Step 18: Push all the files to the remote gie push
+[07-11-2024 05:47 PM] Chinmai NCE: Step 19; go to the gis hub of Refresh the page to verify all th files from the local machine is updated on the merde / gis hub.
+
+Stepzo: After executing a git push Comment if you get authentication error go to gu't hub.
+
+i> click on the profile { towards the right sthe lo option
+
+ii) click on the settings.
+
+• Scroll down developer settings (left side) *
+
+Click on the personal access tokens.
+
+tokens classic
+
+A click on generate a perford men totkers
+
+• Note: My persend wage (type some ressage)
+
+A Expiration; set to no expiration
+
+Select the scope
+
+A click on Repository & work flow
+
+[grepository is Mandatory flect is Repo
+
+• dicker generate token.
+
+• Copy generated token
+
+apaingo to the terrind / excecate the push Command
+
+git push
+
+User name
